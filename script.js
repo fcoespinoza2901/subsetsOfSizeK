@@ -17,9 +17,7 @@ function subsets(n,t){
           				}
         			}
       			}
-    
     		}
-    
   	}
 	return indices
 }
