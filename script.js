@@ -23,4 +23,3 @@ function subsets(n,t){
   	}
 	return indices
 }
-//console.log(subsets(4,3))
